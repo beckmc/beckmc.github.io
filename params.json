@@ -1,6 +1,6 @@
 {
-  "name": "Beckmc.GitHub.io",
+  "name": "Matthew Beck",
   "tagline": "",
-  "body": "## Work In Progress\r\n***\r\n### My Projects\r\nI'm currently building a 'social network' of sorts, which can be found [here](http://cs.lafayette.edu/~cs205_2016_grp01/). It's a collaboration project with @everlastingbugstopper and Kris.\r\n***\r\n### Other Stuff\r\nSometimes I write things on Medium. You can find my profile at <https://medium.com/@mcbeckjr> and check out some of the things I have written there.\r\n***\r\n### Contact Me\r\nYou can get in touch with me at beckmc@lafayette.edu",
+  "body": "## Work In Progress\r\n***\r\n### My Projects\r\n#### Projects From Courses\r\nI'm currently building a 'social network' of sorts for my software engineering class, which can be found [here](http://cs.lafayette.edu/~cs205_2016_grp01/). It's a collaboration project with @everlastingbugstopper and Kris.\r\n\r\nIn my data structures and algorithms class, I wrote a recipe book program in java, which you can learn more about [here](https://github.com/beckmc/RecipeBook-CS150). Over the summer I made an objective-c version of it which implements a GUI and features some other changes, which can be found [here](https://github.com/beckmc/RecipeBook).\r\n***\r\n### Other Stuff\r\nSometimes I write things on Medium. You can find my profile at <https://medium.com/@mcbeckjr> and check out some of the things I have written there.\r\n***\r\n### Contact Me\r\nYou can get in touch with me at beckmc@lafayette.edu",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
